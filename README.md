@@ -1,2 +1,2 @@
-# hw1-code-refactor
+# code-refactor
 First week homework
